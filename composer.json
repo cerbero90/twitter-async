@@ -1,0 +1,18 @@
+{
+    "name": "oyatel/twitter-async",
+    "description": "Twitter-async is a high performance wrapper for Twitter's OAuth API which provides parallel/asynchronous calls. Follow @apiclient for commit updates",
+    "authors": [
+        {
+            "name": "Even André Fiskvik",
+            "email": "eaf@oyatel.com"
+        },
+        {
+            "name": "Jaisen Mathai",
+            "email": "jaisen@jmathai.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
